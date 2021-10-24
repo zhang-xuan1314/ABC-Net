@@ -1,0 +1,105 @@
+7 3600
+0.00906765886490712
+loss_________________
+atom_targets_loss: 0.0005377975
+atom_types_loss: 8.146331e-07
+atom_charges_loss: 1.5567461e-07
+atom_hs_loss: 0.0
+bond_targets_loss: 0.0008606833
+bond_types_loss: 9.170359e-06
+bond_stereos_loss: 2.914677e-07
+bond_rho_loss: 0.006981606250814866
+bond_omega_types: 0.0004331134366892632
+train_________________
+atom_target_precision: 0.9715593093135141
+atom_target_recall: 0.9716790365495028
+atom_target_precision3: 0.9998655816115645
+atom_target_recall3: 0.9999887970872426
+atom_types_acc: 0.99998711654208
+atom_charges_acc: 0.9999977593910921
+atom_hs_acc: 0.0
+bond_target_precision: 0.9611646976206213
+bond_target_recall: 0.9614278114363337
+bond_target_precision3: 0.9996230584930601
+bond_target_recall3: 0.999912195071561
+bond_types_acc: 0.9999176623060497
+bond_stereos_acc: 0.9999288300954813
+bond_rhos_mae: 0.0673639575521311
+bond_omega_precision: 0.8796291992666615
+bond_omega_recall: 0.8796564551497474
+bond_omega_precision3: 0.9997882614196814
+bond_omega_recall3: 0.9998192425141816
+bond_stereo_directions_acc: 0.9999025415010775
+test_________________
+atom_target_precision: 0.9695332136445243
+atom_target_recall: 0.9697247212196305
+atom_target_precision3: 0.9997845601436266
+atom_target_recall3: 0.999982043132396
+atom_types_acc: 0.9999479243358557
+atom_charges_acc: 0.9999874299218141
+atom_hs_acc: 0.0
+bond_target_precision: 0.9604956244106603
+bond_target_recall: 0.9608771203971866
+bond_target_precision3: 0.9993051994243081
+bond_target_recall3: 0.9996855606123294
+bond_types_acc: 0.9997483335435607
+bond_stereos_acc: 0.9999090362205642
+bond_rhos_mae: 0.06886472279536668
+bond_omega_precision: 0.886278273243212
+bond_omega_recall: 0.8863809338147408
+bond_omega_precision3: 0.9993877922464716
+bond_omega_recall3: 0.9995035593594105
+bond_stereo_directions_acc: 0.9993133754463059
+7 3700
+0.0083777425776304
+loss_________________
+atom_targets_loss: 0.0005352321
+atom_types_loss: 1.801228e-05
+atom_charges_loss: 6.9382037e-07
+atom_hs_loss: 0.0
+bond_targets_loss: 0.0007590672
+bond_types_loss: 3.918092e-05
+bond_stereos_loss: 8.511672e-05
+bond_rho_loss: 0.006431241972569286
+bond_omega_types: 0.0005089923724629727
+train_________________
+atom_target_precision: 0.9712211986756458
+atom_target_recall: 0.9712922971230354
+atom_target_precision3: 0.9998761233361112
+atom_target_recall3: 0.9999493194731478
+atom_types_acc: 0.9999735323102914
+atom_charges_acc: 0.9999673373583469
+atom_hs_acc: 0.0
+bond_target_precision: 0.9606829166883218
+bond_target_recall: 0.9608576998050682
+bond_target_precision3: 0.9996465880151759
+bond_target_recall3: 0.9998648473034438
+bond_types_acc: 0.9998535465446793
+bond_stereos_acc: 0.9998870651723466
+bond_rhos_mae: 0.06812461319091244
+bond_omega_precision: 0.8837215343769647
+bond_omega_recall: 0.8840660328285567
+bond_omega_precision3: 0.9993401534792616
+bond_omega_recall3: 0.9997297210854558
+bond_stereo_directions_acc: 1.0
+test_________________
+atom_target_precision: 0.9728725314183124
+atom_target_recall: 0.9730646985939773
+atom_target_precision3: 0.9997845601436266
+atom_target_recall3: 0.999982043132396
+atom_types_acc: 0.9999515157609691
+atom_charges_acc: 0.9999910213727243
+atom_hs_acc: 0.0
+bond_target_precision: 0.9611089973697705
+bond_target_recall: 0.9615225486139842
+bond_target_precision3: 0.9992721377644704
+bond_target_recall3: 0.9996855606123294
+bond_types_acc: 0.9997428757167945
+bond_stereos_acc: 0.9999053976693867
+bond_rhos_mae: 0.06789687970760663
+bond_omega_precision: 0.8863850697374299
+bond_omega_recall: 0.8865464159565691
+bond_omega_precision3: 0.9993878327625287
+bond_omega_recall3: 0.999553203427908
+bond_stereo_directions_acc: 0.9994850315847295
+
